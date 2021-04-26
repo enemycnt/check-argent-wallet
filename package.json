@@ -8,7 +8,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@sushiswap/default-token-list": "^5.10.0",
     "@tailwindcss/forms": "^0.3.2",
     "@usedapp/core": "^0.3.15",
     "next": "10.1.3",

@@ -15,7 +15,6 @@ Live version is available at https://check-argent-wallet.vercel.app
 * [useDApp](https://github.com/EthWorks/useDApp)
 * [React Hook Form](https://react-hook-form.com/)
 * [Tailwind CSS](https://tailwindcss.com)
-* [@sushiswap/default-token-list](@sushiswap/default-token-list)
 
 ### Installing and running
 
